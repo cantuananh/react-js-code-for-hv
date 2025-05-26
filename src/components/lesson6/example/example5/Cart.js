@@ -8,7 +8,6 @@ function Cart() {
         {id: 3, name: "Quần Baggy", price: 450000, quantity: 3},
     ]);
 
-
     const handleChangeQuantity = (id, newQuantity) => {
         setItems(
             (previos) => previos.map(
