@@ -1,12 +1,12 @@
 import './App.css';
 import React from 'react';
-import Product from './components/lesson8/example/4/Product';
+import GiftForm from './components/lesson10/example/2/GiftForm';
 
 
 function App() {
 
   return (
-      <Product />
+      <GiftForm />
   );
 }
 
